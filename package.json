@@ -1,0 +1,24 @@
+{
+  "name": "dht22",
+  "version": "1.0.0",
+  "description": "Read DHT22 temperature/humidity sensor with node.js.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruepprich/dht22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruepprich/dht22/issues"
+  },
+  "homepage": "https://github.com/cruepprich/dht22#readme",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34"
+  }
+}
