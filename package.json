@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cruepprich/dht22#readme",
   "dependencies": {
+    "blynk-library": "^0.5.1",
     "node-dht-sensor": "0.0.34"
   }
 }
