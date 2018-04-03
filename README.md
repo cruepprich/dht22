@@ -29,6 +29,6 @@ make install
 
 Add pullup resistor (10K) between pin 1 and 2.
 
-![DHT connection](https://goo.gl/images/XhN8C4)
+![DHT connection](https://www.rototron.info/wp-content/uploads/DHT22_02-400x277.jpg)
 
 
