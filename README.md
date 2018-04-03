@@ -3,7 +3,7 @@ Read DHT22 temperature/humidity sensor with node.js.
 
 ## Installation
 
-Requires C library for [bcm2835] (http://www.airspayce.com/mikem/bcm2835/)
+Requires C library for [bcm2835](http://www.airspayce.com/mikem/bcm2835/)
 
 ```
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.55.tar.gz
